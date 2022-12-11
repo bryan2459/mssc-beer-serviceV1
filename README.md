@@ -1,1 +1,1 @@
-Spring Boot microservices example
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/bryan2459/mssc-beer-serviceV1/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/bryan2459/mssc-beer-serviceV1/tree/main)
